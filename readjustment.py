@@ -25,7 +25,7 @@ else:
       print('The new salary is: ', readjustment)
     else:
       if job == 4:
-        print('Vendecor')
+        print('salesperson')
         increase = salary * (15/100)
         readjustment = salary + increase
         print('The raise is: ', increase)
